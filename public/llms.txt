@@ -1,0 +1,107 @@
+# Squishy world — Generative Engine Optimization Map
+
+> An online store specializing in squishy toys — soft, squeezable collectible figures popular among kids and teens. The brand revolves around fun, cuteness, and tactile satisfaction, likely featuring a playful and colorful identity centered around the squishy toy culture.
+
+---
+
+## Pages
+
+### בית
+https://squishy-world-b7390cfd.zappy5.app
+חנות הצעצועים הרכים המובילה לילדים ונוער! אוספים בלעדיים של דמויות סחיטות ומפנקות שיספקו שעות של כיף ומגע מרגיע. היכנסו עכשיו לעולם הסקווישיז והתחילו לאסוף.
+
+### אודות
+https://squishy-world-b7390cfd.zappy5.app/about
+הכירו את החזון והערכים שמאחורי ארץ הסקווישיז. אנו מחויבים להביא לכם את הצעצועים האיכותיים, החמודים והמספקים ביותר למגע. בואו לגלות איך נולד הקסם.
+
+### גלריה
+https://squishy-world-b7390cfd.zappy5.app/gallery
+דפדפו בגלריה המהפנטת שלנו ומצאו את החבר הרך הבא שלכם. תמונות צבעוניות של כל הקולקציות הכי חדשות ומבוקשות. איזו דמות תגנוב לכם את הלב היום?
+
+### צור קשר
+https://squishy-world-b7390cfd.zappy5.app/contact
+יש שאלה על הזמנה, משלוח או דמות ספציפית? צוות השירות החייכני שלנו מחכה לשמוע מכם. צרו קשר עוד היום ונחזור אליכם עם חיוך רך ומהיר.
+
+### Products
+https://squishy-world-b7390cfd.zappy5.app/products
+המוצרים שלנו - Squishy world
+
+### Cart
+https://squishy-world-b7390cfd.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://squishy-world-b7390cfd.zappy5.app/checkout
+תשלום
+
+### Login
+https://squishy-world-b7390cfd.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://squishy-world-b7390cfd.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://squishy-world-b7390cfd.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://squishy-world-b7390cfd.zappy5.app/product/:slug
+פרטי המוצר - Squishy world
+
+### Category
+https://squishy-world-b7390cfd.zappy5.app/category/:slug
+מוצרים - Squishy world
+
+### תודה רבה | ההודעה התקבלה
+https://squishy-world-b7390cfd.zappy5.app/thank-you
+תודה על פנייתך. ההודעה התקבלה בהצלחה ונחזור אליך בהקדם. אנו מספקים את פלטפורמת המסחר האלקטרוני הטובה ביותר לעסקים קטנים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://squishy-world-b7390cfd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://squishy-world-b7390cfd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://squishy-world-b7390cfd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Squishy world
+An online store specializing in squishy toys — soft, squeezable collectible figures popular among kids and teens. The brand revolves around fun, cuteness, and tactile satisfaction, likely featuring a playful and colorful identity centered around the squishy toy culture.
+
+## Services/Products
+- מכירת סקווישים
+
+## Target Audience
+- אספני סקווישים צעירים
+- מחפשי הקלה מלחץ
+- קוני מתנות לילדים
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://squishy-world-b7390cfd.zappy5.app/sitemap.xml
+- Robots: https://squishy-world-b7390cfd.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://squishy-world-b7390cfd.zappy5.app/llms-full.txt
+- Products (JSON): https://squishy-world-b7390cfd.zappy5.app/products.json
+- Products (Google Merchant RSS): https://squishy-world-b7390cfd.zappy5.app/product-feed.xml
