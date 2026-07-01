@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://squishy-world-b7390cfd.zappy5.app
+https://example.com
 חנות הצעצועים הרכים המובילה לילדים ונוער! אוספים בלעדיים של דמויות סחיטות ומפנקות שיספקו שעות של כיף ומגע מרגיע. היכנסו עכשיו לעולם הסקווישיז והתחילו לאסוף.
 
 ### אודות
-https://squishy-world-b7390cfd.zappy5.app/about
+https://example.com/about
 הכירו את החזון והערכים שמאחורי ארץ הסקווישיז. אנו מחויבים להביא לכם את הצעצועים האיכותיים, החמודים והמספקים ביותר למגע. בואו לגלות איך נולד הקסם.
 
 ### גלריה
-https://squishy-world-b7390cfd.zappy5.app/gallery
+https://example.com/gallery
 דפדפו בגלריה המהפנטת שלנו ומצאו את החבר הרך הבא שלכם. תמונות צבעוניות של כל הקולקציות הכי חדשות ומבוקשות. איזו דמות תגנוב לכם את הלב היום?
 
 ### צור קשר
-https://squishy-world-b7390cfd.zappy5.app/contact
+https://example.com/contact
 יש שאלה על הזמנה, משלוח או דמות ספציפית? צוות השירות החייכני שלנו מחכה לשמוע מכם. צרו קשר עוד היום ונחזור אליכם עם חיוך רך ומהיר.
 
 ### Products
-https://squishy-world-b7390cfd.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Squishy world
 
 ### Cart
-https://squishy-world-b7390cfd.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://squishy-world-b7390cfd.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://squishy-world-b7390cfd.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://squishy-world-b7390cfd.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://squishy-world-b7390cfd.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://squishy-world-b7390cfd.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Squishy world
 
 ### Category
-https://squishy-world-b7390cfd.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Squishy world
 
 ### תודה רבה | ההודעה התקבלה
-https://squishy-world-b7390cfd.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך. ההודעה התקבלה בהצלחה ונחזור אליך בהקדם. אנו מספקים את פלטפורמת המסחר האלקטרוני הטובה ביותר לעסקים קטנים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://squishy-world-b7390cfd.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://squishy-world-b7390cfd.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://squishy-world-b7390cfd.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -100,8 +100,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://squishy-world-b7390cfd.zappy5.app/sitemap.xml
-- Robots: https://squishy-world-b7390cfd.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://squishy-world-b7390cfd.zappy5.app/llms-full.txt
-- Products (JSON): https://squishy-world-b7390cfd.zappy5.app/products.json
-- Products (Google Merchant RSS): https://squishy-world-b7390cfd.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
